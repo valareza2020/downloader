@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [v2rayNG_2.0.18-fdroid_universal](https://github.com/valareza2020/downloader/tree/main/downloads/v2rayNG_2.0.18-fdroid_universal)
+
+---
